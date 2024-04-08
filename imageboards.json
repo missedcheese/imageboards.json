@@ -483,24 +483,6 @@
     ]
   },
   {
-    "name": "AlogSpace",
-    "url": "https://alogs.theguntretort.com/",
-    "mirrors": [
-      "https://alogs.theguntretort.com/",
-      "http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/"
-    ],
-    "entrances": [
-      "https://julay.world/rebirth/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://alogs.theguntretort.com/webring.json"
-  },
-  {
     "name": "Alokal",
     "url": "https://alokal.eu/",
     "mirrors": [
@@ -516,31 +498,10 @@
     ]
   },
   {
-    "name": "Alphachan",
-    "url": "https://alphachan.org/",
-    "redirects": [
-      "http://alphachan.ru/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "Alterchan",
     "url": "https://alterchan.net/",
     "language": [
       "ru"
-    ]
-  },
-  {
-    "name": "anacel.com",
-    "url": "https://vi.anacel.com/fg/vichan/fg/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -551,52 +512,6 @@
     ],
     "software": [
       "orphereus"
-    ]
-  },
-  {
-    "name": "AnonAmp",
-    "url": "https://anonamp.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "anon.cafe",
-    "url": "https://anon.cafe/",
-    "mirrors": [
-      "https://anon.cafe/",
-      "https://anoncafe.org/",
-      "https://anoncafe.co/",
-      "http://tew7tfz7dvv4tsom45z2wseql7kwfxnc77btftzssaskdw22oa5ckbqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://anon.cafe/webring.json"
-  },
-  {
-    "name": "AnonIB",
-    "url": "https://anonib.al/",
-    "mirrors": [
-      "https://anonib.al/",
-      "https://anusib.com/"
-    ],
-    "redirects": [
-      "https://anonib.com/",
-      "https://anonib.su/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -641,158 +556,8 @@
     ]
   },
   {
-    "name": "Anonium",
-    "url": "https://anonium.net/",
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "antares.chan",
-    "url": "http://antares.oss/",
-    "mirrors": [
-      "http://antares.oss/",
-      "http://l2sv2h6eoxdu6y6s.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://antares.oss/webring.json"
-  },
-  {
-    "name": "anzuchang.com",
-    "url": "http://anzuchang.com/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "Apachan",
-    "url": "https://apachan.ml/b.php",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "exaba"
-    ]
-  },
-  {
-    "name": "Apokalauta",
-    "url": "http://www.apokalauta.org/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "AREA 16",
-    "url": "http://area16.xyz/",
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "Atenszon",
-    "url": "https://atenszon.net/b/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "[a tiny imageboard on a big empty site]",
-    "url": "https://board.ste.lol/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Atomchan",
-    "url": "https://atomchan.net/index.html",
-    "mirrors": [
-      "https://atomchan.net/",
-      "http://atomch2kjtm6mnzvxiwxo7m5swjjgeisve7te4nqylr5bd7y53yrhiid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
-    "name": "Audiochan",
-    "url": "https://audiochan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Azumanga",
-    "url": "https://ib.axypb.net/azu/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Balkanchan",
-    "url": "https://smelle.xyz/",
-    "mirrors": [
-      "https://smelle.xyz/",
-      "http://26yukmkrhmhfg6alc56oexe7bcrokv4rilwpfwgh2u6bsbkddu55h4ad.onion/",
-      "http://2m2ebnwffydmcnxmb4hhgjh5eqt4cb4k2wxhffvyrzq37a33x7oq.b32.i2p/"
-    ],
-    "redirects": [
-      "https://4biz.xyz/"
-    ],
-    "language": [
-      "en",
-      "de",
-      "ru"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://smelle.xyz/index.json"
-  },
-  {
-    "name": "Bananachan",
-    "url": "http://blog.joshuadoes.com/",
     "language": [
       "en"
     ],
@@ -830,28 +595,6 @@
     "boardlist": "https://bandada.club/webring.json"
   },
   {
-    "name": "レースシーンBBS",
-    "url": "http://kdcfrp.cside.com/kdcbbs3/joyful.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyfulnote-isso"
-    ]
-  },
-  {
-    "name": "BBW-Chan",
-    "url": "https://bbw-chan.nl/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://bbw-chan.nl/index.json"
-  },
-  {
     "name": "bernd.group",
     "url": "https://bernd.group/",
     "mirrors": [
@@ -881,38 +624,6 @@
     ]
   },
   {
-    "name": "bleach.cafe",
-    "url": "https://bleach.cafe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "BlockChan Canada",
-    "url": "https://blockchan.ca/main",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "blockchan"
-    ]
-  },
-  {
-    "name": "board.sniff.cc",
-    "url": "https://board.sniff.cc/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "boguspix.com",
     "url": "https://storysol.boguspix.com/",
     "boardlistpages": [
@@ -929,28 +640,6 @@
     ]
   },
   {
-    "name": "Bonzichan",
-    "url": "https://www.windows93.net/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
-    "name": "britfa.gs",
-    "url": "https://britfa.gs/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "brian"
-    ]
-  },
-  {
     "name": "Bronnen",
     "url": "https://www.bronnen.net/",
     "language": [
@@ -962,40 +651,10 @@
     ]
   },
   {
-    "name": "Bunbunmaru",
-    "url": "http://bunbunmaru.com/wakaba/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "Bus Stop",
     "url": "https://bus-stop.net/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "ByteChan",
-    "url": "http://na67g442t5fg26elh2vcnwtttrq5hwjsjvfsge6ckc2h573ducgtuqid.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Cвинг Борда",
-    "url": "https://board.sw-club.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib"
     ]
   },
   {
@@ -1011,18 +670,6 @@
     ]
   },
   {
-    "name": "chan.BigChungus.cz",
-    "url": "https://chan.bigchungus.cz/",
-    "language": [
-      "cs",
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "chanes.uwu.mx",
     "url": "http://chanes.uwu.mx/chanes/",
     "language": [
@@ -1031,46 +678,6 @@
     "software": [
       "tinyboard",
       "vichan"
-    ]
-  },
-  {
-    "name": "レインchannel",
-    "url": "https://reinchan.net/index.html",
-    "mirrors": [
-      "https://reinchan.net/",
-      "https://malenkost.su/",
-      "https://110chan.org/",
-      "http://2l5ray43iyjha7uneosvytcpn6n2bgzczmi24q65amw7iu3f26emmbqd.onion/"
-    ],
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "jschan"
-    ],
-    "boardlist": "https://reinchan.net/boards.json"
-  },
-  {
-    "name": "Channel Minamo",
-    "url": "https://bbs.mnmoc.click/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
-    "name": "Chanon",
-    "url": "https://chanon.ro/",
-    "language": [
-      "ro"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -1085,57 +692,10 @@
     ]
   },
   {
-    "name": "chaos.fm",
-    "url": "https://chaos.fm/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "cheersuki.net",
-    "url": "http://www.cheersuki.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren",
-      "siokara",
-      "moeren+siokara"
-    ]
-  },
-  {
     "name": "Chounyuu",
     "url": "https://g.chounyuu.com/",
     "language": [
       "en"
-    ]
-  },
-  {
-    "name": "comfy.chat",
-    "url": "https://comfy.chat/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "comusume.net",
-    "url": "https://www.comusume.net/index2.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren"
     ]
   },
   {
@@ -1145,19 +705,8 @@
       "en"
     ],
     "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "CSCI IMG Dump",
-    "url": "http://nfcrew.net/img/imgboard.htm",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
+      "tinyboard",
+      "vichan"
     ]
   },
   {
