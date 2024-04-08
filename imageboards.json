@@ -11,13 +11,6 @@
     ]
   },
   {
-    "name": "Даблач",
-    "url": "https://www.22ch.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
     "name": "Кропивач",
     "url": "https://kropyva.ch/",
     "language": [
@@ -38,44 +31,10 @@
     ]
   },
   {
-    "name": "Ньюсач",
-    "url": "http://anon.newsa4.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "exaba"
-    ]
-  },
-  {
     "name": "Нічан",
     "url": "https://nichan.net/",
     "language": [
       "uk"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "УЧАН",
-    "url": "https://uchan.org.ua/",
-    "redirects": [
-      "https://hyperchan.org/"
-    ],
-    "language": [
-      "uk"
-    ],
-    "software": [
-      "kropyva"
-    ]
-  },
-  {
-    "name": "Уточан",
-    "url": "http://utochan.ru/",
-    "language": [
-      "ru"
     ],
     "software": [
       "tinyboard",
@@ -90,30 +49,6 @@
     ]
   },
   {
-    "name": "Хайбане",
-    "url": "https://haibane.ru/",
-    "mirrors": [
-      "https://haibane.ru/",
-      "http://haibanej33s4gfts.onion/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "monaba"
-    ]
-  },
-  {
-    "name": "Хиккач",
-    "url": "https://hikka-ch.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "くれよん掲示板",
     "url": "http://crayon-box.jp/crayon_bbs/crayon.cgi",
     "language": [
@@ -122,19 +57,6 @@
     "software": [
       "joyfulnote",
       "joyfulnote-isso"
-    ]
-  },
-  {
-    "name": "なまけい",
-    "url": "http://namahousou.com/menu.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "siokara-gchan"
     ]
   },
   {
@@ -170,54 +92,6 @@
       "gazoubbs",
       "futaba",
       "siokara"
-    ]
-  },
-  {
-    "name": "ラブプラス用 画像掲示板",
-    "url": "http://tvgamewiki.net/loveplus/pics/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
-    "name": "双猫村祭典広場",
-    "url": "http://rthost.hs.vc/sd/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "塗鴉工廠",
-    "url": "http://broken.goodluck.com.tw/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "大人の画像掲示板ももがき",
-    "url": "http://momogaki.com/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyful2ch",
-      "gakinko"
     ]
   },
   {
@@ -261,25 +135,6 @@
     ]
   },
   {
-    "name": "画像掲示板がきんこ",
-    "url": "http://www.gakinko.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyful2ch",
-      "gakinko"
-    ]
-  },
-  {
-    "name": "画像掲示板しゃんばら",
-    "url": "http://shanbara.jp/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
     "name": "画像掲示板の泉",
     "url": "https://www.imgbbs.dtn.jp/",
     "language": [
@@ -302,16 +157,6 @@
     ]
   },
   {
-    "name": "차단우회 연구소",
-    "url": "https://govbunker.xyz/board/",
-    "language": [
-      "ko"
-    ],
-    "software": [
-      "kboard"
-    ]
-  },
-  {
     "name": "ＡＺＵＣＯちゃんねる",
     "url": "https://azuco.sakura.ne.jp/kareha/",
     "redirects": [
@@ -325,16 +170,6 @@
     ]
   },
   {
-    "name": "0_0 weeb board 0_0",
-    "url": "https://w.xkg.wtf/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
     "name": "02ch",
     "url": "https://02ch.in/all/",
     "language": [
@@ -343,20 +178,6 @@
     "software": [
       "doushio",
       "meguca"
-    ]
-  },
-  {
-    "name": "02ch.su",
-    "url": "http://02ch.su/",
-    "redirects": [
-      "http://xn--02-7mc.xn--p1ai/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
     ]
   },
   {
@@ -383,77 +204,6 @@
       "tetuca"
     ],
     "boardlist": "https://4.0-chan.ru/json/board-list"
-  },
-  {
-    "name": "0kun",
-    "url": "https://www.0kun.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib",
-      "0kun-tinyib"
-    ]
-  },
-  {
-    "name": "100gazou",
-    "url": "http://www.100gazou.com/all_link.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "jn+yyb"
-    ]
-  },
-  {
-    "name": "10ch 画像アップロード",
-    "url": "http://www.10ch.tv/bbs_img/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "imgboard"
-    ]
-  },
-  {
-    "name": "1436chan",
-    "url": "gopher://khzae.net/1/chan",
-    "mirrors": [
-      "gopher://khzae.net/",
-      "https://khzae.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "1436chan"
-    ]
-  },
-  {
-    "name": "1500chan",
-    "url": "https://1500chan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "16chan.xyz",
-    "url": "https://16chan.xyz/",
-    "mirrors": [
-      "https://16chan.xyz/",
-      "http://47s7obvdgdpj6fkc.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
   },
   {
     "name": "1chan",
@@ -487,39 +237,13 @@
     ]
   },
   {
-    "name": "2333chan",
-    "url": "https://x.998fun.com/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
-    "name": "24random.fun",
-    "url": "http://24random.fun/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
     "name": "27chan",
     "url": "https://27chan.org/",
     "language": [
       "pt"
     ],
     "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan",
-      "bazukachan"
+      "jschan"
     ]
   },
   {
@@ -536,36 +260,6 @@
     ]
   },
   {
-    "name": "2cat",
-    "url": "https://2cat.komica.org/",
-    "boardlistpages": [
-      "https://2cat.komica.org/",
-      "http://web.komica.org/bbsmenu.html"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "2--ch",
-    "url": "https://2--ch.ru/",
-    "mirrors": [
-      "https://2--ch.ru/",
-      "https://2-ch.su/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
     "name": "2channel.moe",
     "url": "https://2channel.moe/",
     "mirrors": [
@@ -578,18 +272,6 @@
     ],
     "language": [
       "ru"
-    ]
-  },
-  {
-    "name": "2chen",
-    "url": "https://2chen.moe/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca",
-      "2chen"
     ]
   },
   {
@@ -629,27 +311,6 @@
     ]
   },
   {
-    "name": "2nyan.org",
-    "url": "https://2nyan.org/",
-    "interfaces": [
-      "https://2cat.org/",
-      "https://2cat.club/"
-    ],
-    "boardlistpages": [
-      "https://2cat.komica.org/",
-      "http://web.komica.org/bbsmenu.html",
-      "https://komica2.net/mainmenu2018.html"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
     "name": "314chan",
     "url": "https://www.314chan.org/index.html",
     "mirrors": [
@@ -680,40 +341,6 @@
     ]
   },
   {
-    "name": "-3chan",
-    "url": "https://minus3ch.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
-    "name": "3chan",
-    "url": "https://3chan.co/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
-    "name": "3Dchan.net",
-    "url": "https://3dchan.net/dungeon/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "anonib-3d"
-    ]
-  },
-  {
     "name": "410chan",
     "url": "https://410chan.org/",
     "mirrors": [
@@ -730,29 +357,6 @@
     ]
   },
   {
-    "name": "420chan",
-    "url": "https://boards.420chan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "taimaba"
-    ]
-  },
-  {
-    "name": "466chan",
-    "url": "https://xxxxxxx.showtheoldmanthedoor.ml/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "x-233chan"
-    ]
-  },
-  {
     "name": "4-ch",
     "url": "https://4-ch.net/img/",
     "language": [
@@ -760,21 +364,6 @@
     ],
     "software": [
       "wakaba"
-    ]
-  },
-  {
-    "name": "4ch",
-    "url": "http://4ch.mooo.com/+4/",
-    "language": [
-      "en",
-      "ja",
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat",
-      "yotsubanome"
     ]
   },
   {
@@ -807,33 +396,6 @@
     ]
   },
   {
-    "name": "/4keks/",
-    "url": "https://4keks.org/4keks/",
-    "mirrors": [
-      "https://4keks.org/",
-      "http://4kekspassjutjjjo.onion/"
-    ],
-    "redirects": [
-      "http://4keksride3l75xmr.onion/4keks/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "4kev",
-    "url": "https://www.4kev.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "4kev"
-    ]
-  },
-  {
     "name": "4taba",
     "url": "https://4taba.net/",
     "mirrors": [
@@ -848,17 +410,6 @@
     ]
   },
   {
-    "name": "56chan",
-    "url": "https://uhh.56chan.org/all/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
     "name": "7chan",
     "url": "https://7chan.org/",
     "language": [
@@ -867,36 +418,6 @@
     "software": [
       "kusaba",
       "kusabax"
-    ]
-  },
-  {
-    "name": "83tan",
-    "url": "https://83tan.org/",
-    "mirrors": [
-      "https://83tan.org/",
-      "http://u7mt1tq69yu8k5edp9ysm5tbhkdb3yfq8osem6791bwnb6mz7h6o.loki/",
-      "http://[300:86af:8ff5:c7b5::83]/",
-      "http://83.ygg/"
-    ],
-    "redirects": [
-      "https://topkek.cf/"
-    ],
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "kunhatan"
-    ]
-  },
-  {
-    "name": "8777channel",
-    "url": "https://board.8777.ch/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
     ]
   },
   {
@@ -950,35 +471,6 @@
     "boardlist": "https://8kun.top/boards.json"
   },
   {
-    "name": "9chan.tw",
-    "url": "https://9chan.tw/",
-    "mirrors": [
-      "https://9chan.tw/",
-      "http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/"
-    ],
-    "redirects": [
-      "https://9chan.hk/",
-      "https://9chan.us/",
-      "https://9chan.cc/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "infinity-next"
-    ]
-  },
-  {
-    "name": "abma images",
-    "url": "http://abma.x-maru.org/images/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "ochiba"
-    ]
-  },
-  {
     "name": "ACGSpace",
     "url": "http://acgspace.wsfun.com/kancolle/",
     "language": [
@@ -988,53 +480,6 @@
       "gazoubbs",
       "futaba",
       "pixmicat"
-    ]
-  },
-  {
-    "name": "Acrimonie",
-    "url": "https://www.acrimonie.com/",
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "AgathaChan",
-    "url": "https://agathachan.club/Agatha/",
-    "mirrors": [
-      "https://agathachan.club/",
-      "https://blackpill.club/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "alica.dreamhosters.com",
-    "url": "https://alica.dreamhosters.com/screenshot/index.xhtml.zh-tw",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "Allchan",
-    "url": "https://allchan.su/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "ololord.js"
     ]
   },
   {
