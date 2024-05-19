@@ -1,4372 +1,1213 @@
-[
-  {
+[{
     "name": "Белчан",
     "url": "https://belchan.eu/",
-    "language": [
-      "be"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Кропивач",
-    "url": "https://kropyva.ch/",
-    "language": [
-      "uk"
-    ],
-    "software": [
-      "kropyva"
-    ]
-  },
-  {
+    "language": ["be"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Ноунейм Параша",
     "url": "https://wc.12hp.ch/wc/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["tinyib"]
+}, {
     "name": "Нічан",
     "url": "https://nichan.net/",
-    "language": [
-      "uk"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["uk"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Файно",
     "url": "https://fajno.in/",
-    "language": [
-      "uk"
-    ]
-  },
-  {
-    "name": "くれよん掲示板",
-    "url": "http://crayon-box.jp/crayon_bbs/crayon.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyfulnote-isso"
-    ]
-  },
-  {
+    "language": ["uk"]
+}, null, {
     "name": "ぶっかけ板",
     "url": "http://xn--u8jm6cyd8028a.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara"]
+}, {
     "name": "もみぞう",
     "url": "http://momi3.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
-    ]
-  },
-  {
-    "name": "エロじゃないけれど～ 伍",
-    "url": "https://3d.skr.jp/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba"]
+}, null, {
     "name": "大阪御堂筋",
     "url": "http://osaka.rash.jp/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futaba-gchan",
-      "kabuban"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "futaba-gchan", "kabuban"]
+}, {
     "name": "妻の痴態",
     "url": "http://www.earthly-p.com/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, {
     "name": "満月ポンに寄せられた皆様からの声",
     "url": "https://www.mangetupon.co.jp/koe/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["joyfulnote"]
+}, {
     "name": "熊の穴ツヴァイ",
     "url": "http://kumasange.bbs.fc2.com/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["joyfulnote"]
+}, {
     "name": "画像掲示板の泉",
     "url": "https://www.imgbbs.dtn.jp/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "dtn"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["dtn"]
+}, {
     "name": "画像掲示板ガレンジャー",
     "url": "http://garanger.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "kenjiweb"
-    ]
-  },
-  {
-    "name": "ＡＺＵＣＯちゃんねる",
-    "url": "https://azuco.sakura.ne.jp/kareha/",
-    "redirects": [
-      "http://azuco.sumomo.ne.jp/"
-    ],
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "kenjiweb"]
+}, null, {
     "name": "02ch",
     "url": "https://02ch.in/all/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["doushio", "meguca"]
+}, {
     "name": "0-chan (2)",
     "url": "https://2.0-chan.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "instant-0chan"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["kusaba", "kusabax", "instant-0chan"]
+}, {
     "name": "0-chan (4)",
     "url": "https://4.0-chan.ru/all/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "doushio",
-      "meguca",
-      "tetuca"
-    ],
+    "language": ["ru"],
+    "software": ["doushio", "meguca", "tetuca"],
     "boardlist": "https://4.0-chan.ru/json/board-list"
-  },
-  {
+}, {
     "name": "1chan",
     "url": "https://www.1chan.net/rail/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, {
     "name": "1chan.ca",
     "url": "https://1chan.ca/news/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "1chan"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["1chan"]
+}, {
     "name": "22chan",
     "url": "https://22chan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "27chan",
-    "url": "https://27chan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "28chan",
     "url": "https://28chan.org/board/",
-    "language": [
-      "en",
-      "es",
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "2channel.moe",
-    "url": "https://2channel.moe/",
-    "mirrors": [
-      "https://2channel.moe/",
-      "http://2channel5xx5xchx.onion/",
-      "http://2channel5s3pvmo2364gs25e5xrx7nz6kivqhpj6ihh3df4hykvxysqd.onion/"
-    ],
-    "redirects": [
-      "http://2chmoedsvicn7yspstpkyabkemgsl42johgjkbjknsekra7yakfegrid.onion/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
+    "language": ["en", "es", "pt"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "2draw.me",
     "url": "https://2draw.me/d/",
-    "language": [
-      "ru",
-      "en"
-    ],
-    "software": [
-      "kareha",
-      "bakareha"
-    ]
-  },
-  {
+    "language": ["ru", "en"],
+    "software": ["kareha", "bakareha"]
+}, {
     "name": "2fan",
     "url": "https://2fan.ru/ch/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "exaba"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["exaba"]
+}, {
     "name": "2nee.org",
     "url": "http://2nee.org/",
-    "mirrors": [
-      "http://2nee.org/",
-      "http://board.lulalala.com/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "mei"
-    ]
-  },
-  {
+    "mirrors": ["http://2nee.org/", "http://board.lulalala.com/"],
+    "language": ["zh"],
+    "software": ["mei"]
+}, {
     "name": "314chan",
     "url": "https://www.314chan.org/index.html",
-    "mirrors": [
-      "https://www.314chan.org/",
-      "https://www.314chan.co/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
+    "mirrors": ["https://www.314chan.org/", "https://www.314chan.co/"],
+    "language": ["en"],
+    "software": ["jschan"],
     "boardlist": "https://www.314chan.org/boards.json"
-  },
-  {
+}, {
     "name": "370chan",
     "url": "https://370ch.lt/",
-    "mirrors": [
-      "https://370ch.lt/",
-      "https://370chan.info/"
-    ],
-    "language": [
-      "lt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://370ch.lt/", "https://370chan.info/"],
+    "language": ["lt"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "410chan",
     "url": "https://410chan.org/",
-    "mirrors": [
-      "https://410chan.org/",
-      "https://410chan.ru/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "serissa",
-      "fbe-410"
-    ]
-  },
-  {
+    "mirrors": ["https://410chan.org/", "https://410chan.ru/"],
+    "language": ["ru"],
+    "software": ["kusaba", "serissa", "fbe-410"]
+}, {
     "name": "4-ch",
     "url": "https://4-ch.net/img/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "4chan",
-    "url": "https://www.4chan.org/",
-    "interfaces": [
-      "https://p.4chan.org/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "yotsuba"
-    ],
-    "boardlist": "https://a.4cdn.org/boards.json"
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba"]
+}, null, {
     "name": "4chon.me",
     "url": "https://4chon.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
-    "name": "4taba",
-    "url": "https://4taba.net/",
-    "mirrors": [
-      "https://4taba.net/",
-      "https://4taba2.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kotatsu"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "lainchan"]
+}, null, {
     "name": "7chan",
     "url": "https://7chan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "8chan.moe",
     "url": "https://8chan.moe/",
-    "mirrors": [
-      "https://8chan.moe/",
-      "https://8chan.se/",
-      "https://redchannit.com/",
-      "https://redchannit.net/",
-      "http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/"
-    ],
-    "redirects": [
-      "http://8ch.moe/"
-    ],
-    "fallbacks": [
-      "http://8chan.cc/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
+    "mirrors": ["https://8chan.moe/", "https://8chan.se/", "https://redchannit.com/", "https://redchannit.net/", "http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/"],
+    "redirects": ["http://8ch.moe/"],
+    "fallbacks": ["http://8chan.cc/"],
+    "language": ["en"],
+    "software": ["lynxchan"],
     "boardlist": "https://8chan.moe/webring.json"
-  },
-  {
+}, {
     "name": "8kun",
     "url": "https://8kun.top/index.html",
-    "mirrors": [
-      "https://8kun.top/",
-      "http://jthnx5wyvjvzsxtu.onion/",
-      "http://pijdty5otm38tdex6kkh51dkbkegf31dqgryryz3s3tys8wdegxo.loki/",
-      "http://s5swbfcf4joom9tzf8w7ss5fptywwpnnfop3pxcf5ebjnz8ioksy.loki/",
-      "http://pchpjz7ubqsfwa7qeyotqszrx5ayt3p1y4mbfnuffoupwq53nury.loki/"
-    ],
-    "entrances": [
-      "https://8ch.net/",
-      "https://8kun.net/",
-      "https://isitwetyet.com/8kun/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "openib"
-    ],
+    "mirrors": ["https://8kun.top/", "http://jthnx5wyvjvzsxtu.onion/", "http://pijdty5otm38tdex6kkh51dkbkegf31dqgryryz3s3tys8wdegxo.loki/", "http://s5swbfcf4joom9tzf8w7ss5fptywwpnnfop3pxcf5ebjnz8ioksy.loki/", "http://pchpjz7ubqsfwa7qeyotqszrx5ayt3p1y4mbfnuffoupwq53nury.loki/"],
+    "entrances": ["https://8ch.net/", "https://8kun.net/", "https://isitwetyet.com/8kun/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "infinity", "openib"],
     "boardlist": "https://8kun.top/boards.json"
-  },
-  {
-    "name": "ACGSpace",
-    "url": "http://acgspace.wsfun.com/kancolle/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+}, null, {
     "name": "Alokal",
     "url": "https://alokal.eu/",
-    "mirrors": [
-      "https://alokal.eu/",
-      "http://alokalaou53jmgum.onion/"
-    ],
-    "language": [
-      "sk"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://alokal.eu/", "http://alokalaou53jmgum.onion/"],
+    "language": ["sk"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Alterchan",
     "url": "https://alterchan.net/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
+    "language": ["ru"]
+}, {
     "name": "Anoma",
     "url": "https://bbs.anoma.ch/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "orphereus"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["orphereus"]
+}, {
     "name": "anonima.club",
     "url": "https://anonima.club/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Anon Images",
     "url": "https://anonme.tv/",
-    "mirrors": [
-      "https://anonme.tv/",
-      "https://anonibs.com/"
-    ],
-    "entrances": [
-      "https://anonimages.crypto/",
-      "https://viewblock.io/unstoppable/anonimages.crypto",
-      "https://gateway.pinata.cloud/ipfs/QmWCMGNRNQM44L2peDEMRCG4XLbShUFTbqxvqWGMsELfso/"
-    ],
-    "redirects": [
-      "https://anonimages.com/",
-      "https://banned.pics/",
-      "https://anonimageboards.com/",
-      "https://boards.anonreloaded.com/",
-      "https://anonme.la/",
-      "https://iboards.org/",
-      "https://anonme.org/",
-      "https://anonimageboard.com/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://anonme.tv/", "https://anonibs.com/"],
+    "entrances": ["https://anonimages.crypto/", "https://viewblock.io/unstoppable/anonimages.crypto", "https://gateway.pinata.cloud/ipfs/QmWCMGNRNQM44L2peDEMRCG4XLbShUFTbqxvqWGMsELfso/"],
+    "redirects": ["https://anonimages.com/", "https://banned.pics/", "https://anonimageboards.com/", "https://boards.anonreloaded.com/", "https://anonme.la/", "https://iboards.org/", "https://anonme.org/", "https://anonimageboard.com/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "AwsumChan",
     "url": "https://awsumchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "BANANALCHAN.ORG",
-    "url": "https://bananalchan.org/",
-    "mirrors": [
-      "https://bananalchan.org/",
-      "https://bananal.org/"
-    ],
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan",
-      "bazukachan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Bando Bandada",
     "url": "https://bandada.club/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "lynxchan"
-    ],
+    "language": ["es"],
+    "software": ["lynxchan"],
     "boardlist": "https://bandada.club/webring.json"
-  },
-  {
+}, {
     "name": "bernd.group",
     "url": "https://bernd.group/",
-    "mirrors": [
-      "https://bernd.group/",
-      "https://krautchan.rip/",
-      "https://kctier.club/",
-      "https://xcomm.id/",
-      "https://hamstakilla.com/"
-    ],
-    "language": [
-      "en",
-      "ru"
-    ]
-  },
-  {
+    "mirrors": ["https://bernd.group/", "https://krautchan.rip/", "https://kctier.club/", "https://xcomm.id/", "https://hamstakilla.com/"],
+    "language": ["en", "ru"]
+}, {
     "name": "Bienvenido a Internet",
     "url": "https://bienvenidoainternet.org/",
-    "mirrors": [
-      "https://bienvenidoainternet.org/",
-      "http://bai5vj7eniqkrau5.onion/"
-    ],
-    "language": [
-      "es"
-    ],
-    "software": [
-      "weabot"
-    ]
-  },
-  {
-    "name": "boguspix.com",
-    "url": "https://storysol.boguspix.com/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://komica2.net/mainmenu2018.html"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "mirrors": ["https://bienvenidoainternet.org/", "http://bai5vj7eniqkrau5.onion/"],
+    "language": ["es"],
+    "software": ["weabot"]
+}, null, {
     "name": "Bronnen",
     "url": "https://www.bronnen.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Bus Stop",
     "url": "https://bus-stop.net/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"]
+}, {
     "name": "Camiko",
     "url": "https://www.camiko.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, {
     "name": "chanes.uwu.mx",
     "url": "http://chanes.uwu.mx/chanes/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Chansluts",
     "url": "https://www.slutchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "wakaba++"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba", "wakaba++"]
+}, {
     "name": "Chounyuu",
     "url": "https://g.chounyuu.com/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"]
+}, {
     "name": "crystal.cafe",
     "url": "https://crystal.cafe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "cu4trochan",
     "url": "https://cuatrochan.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "CuceiChan",
     "url": "https://cucei.com.mx/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "daijoubu.org",
     "url": "https://daijoubu.org/bun/",
-    "mirrors": [
-      "https://daijoubu.org/",
-      "http://mail.fufufu.moe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
+    "mirrors": ["https://daijoubu.org/", "http://mail.fufufu.moe/"],
+    "language": ["en"],
+    "software": ["doushio", "meguca"]
+}, {
     "name": "DameIB",
     "url": "https://dameib.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "saguaro"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["gazoubbs", "futaba", "futallaby", "saguaro"]
+}, {
     "name": "dbfoxtw.me",
     "url": "https://komica.dbfoxtw.me/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, {
     "name": "DenshiChan",
     "url": "https://chan.denshi.live/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
+    "language": ["en"],
+    "software": ["jschan"],
     "boardlist": "https://chan.denshi.live/boards.json"
-  },
-  {
+}, {
     "name": "Desuarchive",
     "url": "https://desuarchive.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "foolfuuka"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["foolfuuka"]
+}, {
     "name": "desuchan.eu",
     "url": "https://desuchan.eu/",
-    "mirrors": [
-      "https://desuchan.eu/",
-      "https://desuchan.org/",
-      "https://2chan.jp/"
-    ],
-    "language": [
-      "en",
-      "ja",
-      "de"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "Desukachan",
-    "url": "https://desuka.ch/",
-    "language": [
-      "ru",
-      "en"
-    ]
-  },
-  {
+    "mirrors": ["https://desuchan.eu/", "https://desuchan.org/", "https://2chan.jp/"],
+    "language": ["en", "ja", "de"],
+    "software": ["wakaba"]
+}, null, {
     "name": "DFwk",
     "url": "http://chuck.dfwk.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "dietchan",
     "url": "https://dietchan.org/c/",
-    "language": [
-      "de"
-    ],
-    "software": [
-      "dietchan"
-    ]
-  },
-  {
+    "language": ["de"],
+    "software": ["dietchan"]
+}, {
     "name": "Diochan",
     "url": "https://www.diochan.com/",
-    "language": [
-      "it"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["it"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "DisCap",
     "url": "https://dismantle.capital/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, {
     "name": "Dobrochan",
     "url": "https://dobrochan.net/",
-    "mirrors": [
-      "https://dobrochan.net/",
-      "http://dobrochan.ru/",
-      "http://dobrochan.org/",
-      "http://dobrochan.com/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "orphereus",
-      "hanabira"
-    ]
-  },
-  {
+    "mirrors": ["https://dobrochan.net/", "http://dobrochan.ru/", "http://dobrochan.org/", "http://dobrochan.com/"],
+    "language": ["ru"],
+    "software": ["orphereus", "hanabira"]
+}, {
     "name": "Dollars BBS",
     "url": "https://dollars-bbs.org/main/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"]
+}, {
     "name": "Dollchan Extension",
     "url": "https://dollchan.net/de/",
-    "redirects": [
-      "https://dscript.me/de/"
-    ],
-    "language": [
-      "ru",
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "redirects": ["https://dscript.me/de/"],
+    "language": ["ru", "en"],
+    "software": ["tinyib"]
+}, {
     "name": "Domingochan",
     "url": "https://domingochan.org/",
-    "language": [
-      "es"
-    ]
-  },
-  {
+    "language": ["es"]
+}, {
     "name": "Doushio",
     "url": "https://doushio.com/moe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio"
-    ]
-  },
-  {
-    "name": "doyouevenchan.com",
-    "url": "http://doyouevenchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Dreamchan",
-    "url": "https://dreamch.net/",
-    "redirects": [
-      "http://dreamchan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "dulmBox",
-    "url": "http://dulm.blue/box/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "smolbbs"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["doushio"]
+}, null, null, null, {
     "name": "Dva-ch",
     "url": "https://dva-ch.net/",
-    "mirrors": [
-      "https://dva-ch.net/",
-      "https://2ch.rip/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby",
-      "pihaba"
-    ]
-  },
-  {
+    "mirrors": ["https://dva-ch.net/", "https://2ch.rip/"],
+    "language": ["ru"],
+    "software": ["gazoubbs", "futaba", "futallaby", "pihaba"]
+}, {
     "name": "Dvachso",
     "url": "https://2ch.hk/",
-    "mirrors": [
-      "https://2ch.hk/",
-      "https://2ch.pm/"
-    ],
-    "interfaces": [
-      "https://m2ch.hk/"
-    ],
-    "redirects": [
-      "https://2ch.re/",
-      "https://2ch.wf/"
-    ],
-    "fallbacks": [
-      "http://2ch.tf/",
-      "http://2ch.yt/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "makaba"
-    ],
+    "mirrors": ["https://2ch.hk/", "https://2ch.pm/"],
+    "interfaces": ["https://m2ch.hk/"],
+    "redirects": ["https://2ch.re/", "https://2ch.wf/"],
+    "fallbacks": ["http://2ch.tf/", "http://2ch.yt/"],
+    "language": ["ru"],
+    "software": ["makaba"],
     "boardlist": "https://2ch.hk/boards.json"
-  },
-  {
+}, {
     "name": "ebbs.jp",
     "url": "http://www.ebbs.jp/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, {
     "name": "Endchan",
     "url": "https://endchan.net/",
-    "mirrors": [
-      "https://endchan.net/",
-      "https://endchan.gg/",
-      "https://endchan.org/",
-      "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/",
-      "http://endchan5doxvprs5.onion/",
-      "http://s6424n4x4bsmqs27.onion/",
-      "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan",
-      "infinitynow"
-    ],
+    "mirrors": ["https://endchan.net/", "https://endchan.gg/", "https://endchan.org/", "http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/", "http://endchan5doxvprs5.onion/", "http://s6424n4x4bsmqs27.onion/", "http://kqrtg5wz4qbyjprujkz33gza7r73iw3ainqp1mz5zmu16symcdwy.loki/"],
+    "language": ["en"],
+    "software": ["lynxchan", "infinitynow"],
     "boardlist": "https://endchan.net/index.json"
-  },
-  {
+}, {
     "name": "Erischan",
     "url": "https://erischan.org/",
-    "language": [
-      "en",
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ],
+    "language": ["en", "pl"],
+    "software": ["tinyboard", "vichan"],
     "boardlist": "https://erischan.org/webring.json"
-  },
-  {
-    "name": "Erlach",
-    "url": "https://erlach.services/",
-    "mirrors": [
-      "https://erlach.services/",
-      "http://erlach6sjul42c7h.onion/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "erlach"
-    ]
-  },
-  {
-    "name": "Ernstchan",
-    "url": "https://ernstchan.xyz/int/",
-    "language": [
-      "en",
-      "de"
-    ],
-    "software": [
-      "wakaba",
-      "phutaba"
-    ]
-  },
-  {
-    "name": "EROANI",
-    "url": "http://eroani.2-d.jp/index2.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyful2ch",
-      "joyful2chme"
-    ]
-  },
-  {
+}, null, null, null, {
     "name": "Ethereal",
     "url": "https://etherealworld.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "eurochan.org",
-    "url": "https://eurochan.org/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "FantomTalk",
     "url": "http://fantomtalk.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, {
     "name": "fatchan",
     "url": "https://fatchan.org/index.html",
-    "mirrors": [
-      "https://fatchan.org/",
-      "http://cimixezweeq64g42vl6tyhk4becxhi4ldwqq6w43u53qhwsd3s4c3lyd.onion/",
-      "http://e8zhrn4ideccyy6wfs8gyytdgz8xmcn11f1y5o557z3g8a18gf4y.loki/"
-    ],
-    "entrances": [
-      "https://fatchan.net/",
-      "https://fatchan.to/",
-      "https://fatchan.top/",
-      "https://fatchan.tw/",
-      "https://fatchan.li/",
-      "https://fatchan.ru/",
-      "https://fatchan.is/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
+    "mirrors": ["https://fatchan.org/", "http://cimixezweeq64g42vl6tyhk4becxhi4ldwqq6w43u53qhwsd3s4c3lyd.onion/", "http://e8zhrn4ideccyy6wfs8gyytdgz8xmcn11f1y5o557z3g8a18gf4y.loki/"],
+    "entrances": ["https://fatchan.net/", "https://fatchan.to/", "https://fatchan.top/", "https://fatchan.tw/", "https://fatchan.li/", "https://fatchan.ru/", "https://fatchan.is/"],
+    "language": ["en"],
+    "software": ["jschan"],
     "boardlist": "https://fatchan.org/webring.json"
-  },
-  {
-    "name": "Favelachan",
-    "url": "https://favelachan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "neoboard"
-    ]
-  },
-  {
+}, null, {
     "name": "Fchan",
     "url": "http://fchan.us/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba"]
+}, {
     "name": "FChannel 0xChan",
     "url": "https://0x00000000.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
-    "name": "FChannel 26ch",
-    "url": "https://26ch.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["fchannel"]
+}, null, {
     "name": "FChannel FChan",
     "url": "https://fchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
-    "name": "FChannel FitChan",
-    "url": "https://fitchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
-    "name": "FChannel KTP Club",
-    "url": "https://bbs.killthepresident.club/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
-    "name": "FChannel Kyogi",
-    "url": "http://kyogi7dxn3mr6a7eabaqh3jnxbbqbhty46aqstuhmqmokcxgr4vnbpid.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
-    "name": "FChannel PenChan",
-    "url": "https://penchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
-    "name": "FChannel Poopchan",
-    "url": "https://poopchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["fchannel"]
+}, null, null, null, null, null, {
     "name": "FChannel umu",
     "url": "https://2hu-ch.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "fchannel"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["fchannel"]
+}, {
     "name": "Fenrisulfr",
     "url": "https://fenrisulfr.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "FilePush.pw",
-    "url": "https://boards.filepush.pw/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Finalchan",
-    "url": "https://finalchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "FrChan",
-    "url": "https://fch.bet/",
-    "mirrors": [
-      "https://fch.bet/",
-      "https://frchan.bet/",
-      "http://fchantpaey5or245.onion/",
-      "http://frchano4z7wr37nlzogiboypoc7hvwrtskkexk2chtjmbioysevmetad.onion/"
-    ],
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://fch.bet/webring.json"
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, null, null, null, {
     "name": "Fufufu",
     "url": "https://fufufu.moe/a/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "FurChan",
-    "url": "https://furchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://furchan.net/index.json"
-  },
-  {
-    "name": "fureai.or.jp",
-    "url": "http://fureai.or.jp/~arima/keijiban-3/joyful.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard"]
+}, null, null, {
     "name": "Futaba Channel",
     "url": "https://www.2chan.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba"]
+}, {
     "name": "futaba-only.net",
     "url": "https://futaba-only.net/imgboard/index.html",
-    "mirrors": [
-      "https://futaba-only.net/",
-      "https://lolipop-dp53020672.ssl-lolipop.jp/"
-    ],
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
+    "mirrors": ["https://futaba-only.net/", "https://lolipop-dp53020672.ssl-lolipop.jp/"],
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara"]
+}, {
     "name": "Futaboard",
     "url": "https://board.futakuro.com/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "monaca"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "monaca"]
+}, {
     "name": "Futatsu",
     "url": "https://futatsu.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "maniwani"
-    ]
-  },
-  {
-    "name": "FutureChan",
-    "url": "https://futurechan.net/",
-    "language": [
-      "de"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["maniwani"]
+}, null, {
     "name": "Gaika",
     "url": "http://gaika.ch/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "garyc.me/files2/",
-    "url": "https://garyc.me/files2/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["wakaba"]
+}, null, {
     "name": "Gay NEETs from Outer Space",
     "url": "https://gnfos.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Gemchan",
-    "url": "https://gemchan.net/index.html",
-    "mirrors": [
-      "https://gemchan.net/",
-      "http://gemchan4bkf4xqja2i6gtdzlky6qhzd3lxlgxs4yi62uncbmmad2mkad.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "GeminiChan",
     "url": "http://upload.geminight.com/",
-    "language": [
-      "zh"
-    ]
-  },
-  {
+    "language": ["zh"]
+}, {
     "name": "GETchan",
     "url": "https://www.getchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "GirlsChannel",
     "url": "https://girlschannel.net/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, {
     "name": "gmkz4ne.com",
     "url": "http://gmkz4ne.com/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara", "yakuba"]
+}, {
     "name": "Gochan",
     "url": "https://gochan.org/",
-    "mirrors": [
-      "https://gochan.org/",
-      "https://gochan.lunachan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gochan"
-    ],
+    "mirrors": ["https://gochan.org/", "https://gochan.lunachan.net/"],
+    "language": ["en"],
+    "software": ["gochan"],
     "boardlist": "https://gochan.lunachan.net/boards.json"
-  },
-  {
-    "name": "gopherchan",
-    "url": "gopher://port70.net/1chan",
-    "mirrors": [
-      "gopher://port70.net/",
-      "https://port70.net/?"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gopherchan"
-    ]
-  },
-  {
+}, null, {
     "name": "Gorechan",
     "url": "https://bloodymess.net/",
-    "mirrors": [
-      "https://bloodymess.net/",
-      "http://xv5z2cjfdvusxtezvhvdsavo7dkoftii5p4s2fudqwzhpaacl5t4fdid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat",
-      "kokonotsuba"
-    ]
-  },
-  {
+    "mirrors": ["https://bloodymess.net/", "http://xv5z2cjfdvusxtezvhvdsavo7dkoftii5p4s2fudqwzhpaacl5t4fdid.onion/"],
+    "language": ["en"],
+    "software": ["gazoubbs", "futaba", "pixmicat", "kokonotsuba"]
+}, {
     "name": "Gowno.club",
     "url": "https://gowno.club/all/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
+    "language": ["pl"],
+    "software": ["doushio", "meguca"]
+}, {
     "name": "Grimchan",
     "url": "https://grimchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Gurochan",
-    "url": "https://guro.wtf/",
-    "entrances": [
-      "https://g3.kolyma.org/",
-      "https://live.kolyma.org/gurochan.ga.txt"
-    ],
-    "redirects": [
-      "https://gurochan.ga/"
-    ],
-    "fallbacks": [
-      "http://gurochan.cf/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat",
-      "kokonotsuba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "gzone-anime.info/UnitedSites/",
     "url": "http://gzone-anime.info/UnitedSites/academic/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "Hatsune.ru",
-    "url": "https://hatsune.ru/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
-    "name": "helios land",
-    "url": "https://helios.rip/f/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "boardlistpages": ["http://web.komica.org/bbsmenu.html", "https://2cat.komica.org/"],
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, null, null, {
     "name": "Helma",
     "url": "https://www.helma.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "kusaba-helma"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax", "kusaba-helma"]
+}, {
     "name": "heretyk.org",
     "url": "https://heretyk.org/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["pl"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "Heyuri",
     "url": "https://www.heyuri.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat",
-      "kokonotsuba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["gazoubbs", "futaba", "pixmicat", "kokonotsuba"]
+}, {
     "name": "Himasugi",
     "url": "https://himasugi.blog/jp/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Hispachan",
-    "url": "https://www.hispachan.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Hispasexy",
     "url": "https://www.hispasexy.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "Horochan",
     "url": "https://horochan.ru/b",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "mayuri"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["mayuri"]
+}, {
     "name": "hotta.saloon.jp",
     "url": "http://hotta.saloon.jp/lnk/ass71/ass71.cgi",
-    "language": [
-      "ja"
-    ]
-  },
-  {
-    "name": "housamo.xyz",
-    "url": "https://boards.housamo.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "foolfuuka"
-    ]
-  },
-  {
-    "name": "Кислица.i2p",
-    "url": "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/",
-    "mirrors": [
-      "http://khceo3smaxtng2tnuicmcbhdnkk2j6myi4nkigcux76qh3aabdhq.b32.i2p/",
-      "http://kislitsa.i2p/"
-    ],
-    "language": [
-      "ru"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, null, null, {
     "name": "ib.acxyz.ca",
     "url": "https://ib.acxyz.ca/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "i-bbs",
     "url": "http://i-bbs.sijex.net/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, {
     "name": "Iccanobif's Imageboard",
     "url": "http://iccanobif.altervista.org/sgb/imgboard.htm",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futallaby"
-    ]
-  },
-  {
-    "name": "iChan",
-    "url": "https://ichan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["gazoubbs", "futaba", "futallaby"]
+}, null, {
     "name": "もみぞう /id/",
     "url": "http://momi9.momi3.net/id/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
-    "name": "iichan",
-    "url": "https://iichan.hk/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara"]
+}, null, {
     "name": "ii.yakuji.moe",
     "url": "http://ii.yakuji.moe/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "inch.esy.es",
-    "url": "http://inch.esy.es/b/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["wakaba"]
+}, null, {
     "name": "Indiachan",
     "url": "https://indiachan.com/",
-    "mirrors": [
-      "https://indiachan.com/",
-      "https://indiachan.top/",
-      "https://pajeet.top/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
+    "mirrors": ["https://indiachan.com/", "https://indiachan.top/", "https://pajeet.top/"],
+    "language": ["en"],
+    "software": ["lynxchan"]
+}, {
     "name": "Intern3ts",
     "url": "https://www.intern3ts.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "wakaba++"
-    ]
-  },
-  {
-    "name": "Iro",
-    "url": "https://iro2.net/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba", "wakaba++"]
+}, null, {
     "name": "isheadog.com",
     "url": "https://www.isheadog.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "jard",
-    "url": "https://jard.buzz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jard"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Jormungandr",
     "url": "https://jormungandr.info/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, {
     "name": "kabuban",
     "url": "http://www.kabuban.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "futaba-gchan",
-      "kabuban"
-    ]
-  },
-  {
-    "name": "kagaminerin.org",
-    "url": "http://www.kagaminerin.org/fps/",
-    "boardlistpages": [
-      "http://www.kagaminerin.org/fps/pixmicat.php?res=84598",
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "Kakashi Nenpo",
-    "url": "https://kakashi-nenpo.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "futaba-gchan", "kabuban"]
+}, null, null, {
     "name": "Kamil Nowak smiec",
     "url": "http://altaro.webd.pl/images/board/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "KARABOĞA",
-    "url": "https://karabo.ga/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "sichan"
-    ]
-  },
-  {
+    "language": ["pl"],
+    "software": ["tinyib"]
+}, null, {
     "name": "karlsland.net",
     "url": "http://www.karlsland.net/sw/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "boardlistpages": ["http://web.komica.org/bbsmenu.html", "https://2cat.komica.org/"],
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, {
     "name": "KBoard 데모",
     "url": "https://www.cosmosfarm.com/demo/",
-    "language": [
-      "ko"
-    ],
-    "software": [
-      "kboard"
-    ]
-  },
-  {
-    "name": "Kelvinchan",
-    "url": "http://6s72dyf6jwlvk2u455lksvcs5r7deafc3iniwo5kp4ssm777noma.b32.i2p/",
-    "mirrors": [
-      "http://6s72dyf6jwlvk2u455lksvcs5r7deafc3iniwo5kp4ssm777noma.b32.i2p/",
-      "http://kelvinchan.i2p/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["ko"],
+    "software": ["kboard"]
+}, null, {
     "name": "kemono.wtako.net",
     "url": "https://kemono.wtako.net/kemono/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "Keskustori",
-    "url": "http://oivkrzn5xeisuvqtzeeexc53revzq7uf2ksoxmhfnl242hvlmbrwamqd.onion/",
-    "language": [
-      "fi"
-    ]
-  },
-  {
-    "name": "kind.moe",
-    "url": "https://kind.moe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ],
-    "boardlist": "https://kind.moe/webring.json"
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, null, null, {
     "name": "Kissu.moe",
     "url": "https://kissu.moe/",
-    "interfaces": [
-      "https://original.kissu.moe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "kissu-vi"
-    ]
-  },
-  {
-    "name": "/koe/ - Voice & audio CDs",
-    "url": "http://board.kasumi.moe/koe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "interfaces": ["https://original.kissu.moe/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "kissu-vi"]
+}, null, {
     "name": "Kohlchan",
     "url": "https://kohlchan.net/",
-    "mirrors": [
-      "https://kohlchan.net/",
-      "https://nocsp.kohlchan.net/",
-      "http://kohlchanagb7ih5g.onion/",
-      "http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/"
-    ],
-    "redirects": [
-      "https://kohlkanal.net/"
-    ],
-    "language": [
-      "de"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "Komica",
-    "url": "http://web.komica.org/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "mirrors": ["https://kohlchan.net/", "https://nocsp.kohlchan.net/", "http://kohlchanagb7ih5g.onion/", "http://kohlchanvwpfx6hthoti5fvqsjxgcwm3tmddvpduph5fqntv5affzfqd.onion/"],
+    "redirects": ["https://kohlkanal.net/"],
+    "language": ["de"],
+    "software": ["lynxchan"]
+}, null, {
     "name": "Komica2",
     "url": "https://komica2.net/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "komica.yucie.net",
-    "url": "https://komica.yucie.net/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, null, {
     "name": "Komicolle",
     "url": "https://komicolle.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "komicolle.dreamhosters.com",
-    "url": "https://komicolle.dreamhosters.com/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
-    "name": "Konomi",
-    "url": "https://konomi.tw/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, null, null, {
     "name": "Kotchan",
     "url": "https://kotchan.fun/chat/home",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "livechan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["livechan"]
+}, {
     "name": "Kpop",
     "url": "https://kpop.re/all/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "doushio",
-      "meguca",
-      "cutechan"
-    ]
-  },
-  {
-    "name": "kuju.main.jp",
-    "url": "http://kuju.main.jp/cgi-bin/joyful1.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyfulnote-isso"
-    ]
-  },
-  {
-    "name": "kukuku.uk",
-    "url": "https://kukuku.uk/%E7%BB%BC%E5%90%88%E7%89%881/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
-    "name": "Kurisu;Imageboard",
-    "url": "https://kurisa.ch/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "instant-0chan",
-      "kurisaba"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["doushio", "meguca", "cutechan"]
+}, null, null, null, {
     "name": "Lainchan",
     "url": "https://lainchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
-    "name": "Lampa Chan",
-    "url": "https://lampach.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "lainchan"]
+}, null, {
     "name": "Lapis-chan",
     "url": "http://lapchan.moe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lapis-chan"
-    ]
-  },
-  {
-    "name": "late.city",
-    "url": "https://late.city/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "https://late.city/webring.json"
-  },
-  {
+    "language": ["en"],
+    "software": ["lapis-chan"]
+}, null, {
     "name": "Latinchan",
     "url": "https://www.latinchan.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "arisuchan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan", "arisuchan"]
+}, {
     "name": "Leftypol",
     "url": "https://leftypol.org/",
-    "mirrors": [
-      "https://leftypol.org/",
-      "http://wz6bnwwtwckltvkvji6vvgmjrfspr3lstz66rusvtczhsgvwdcixgbyd.onion/",
-      "https://bunkerchan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
-    "name": "Lenachan",
-    "url": "https://lenachan.eu.org/b/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "lettchan",
-    "url": "http://8.12.18.247/",
-    "language": [
-      "lv"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "LewdChan",
-    "url": "https://chan.lewdtuber.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
+    "mirrors": ["https://leftypol.org/", "http://wz6bnwwtwckltvkvji6vvgmjrfspr3lstz66rusvtczhsgvwdcixgbyd.onion/", "https://bunkerchan.net/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "lainchan"]
+}, null, null, null, {
     "name": "Lewd.pics",
     "url": "https://lewd.pics/chan/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "LITchan",
-    "url": "https://litchan.lt/",
-    "language": [
-      "lt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard"]
+}, null, {
     "name": "Lizardchan",
     "url": "https://lizchan.xyz/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Loistolauta",
     "url": "https://www.loistolauta.org/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["fi"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Lolcow",
     "url": "https://lolcow.farm/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "Loliboard",
-    "url": "https://lolisare.fun/l/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat",
-      "kokonotsuba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard"]
+}, null, {
     "name": "Lolnada",
     "url": "https://lolnada.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "Lost Bobbl IB",
-    "url": "https://www.lostbobbl.com/ib/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard"]
+}, null, {
     "name": "Lulz",
     "url": "https://lulz.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Lupchan",
-    "url": "http://lupchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Magalichan",
     "url": "https://magalichan.com/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan",
-      "bazukachan"
-    ]
-  },
-  {
+    "language": ["pt"],
+    "software": ["tinyboard", "vichan", "npfchan", "bazukachan"]
+}, {
     "name": "Magic",
     "url": "https://gensou.chakai.org/magic/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["doushio"]
+}, {
     "name": "magyarchan",
     "url": "https://magyarchan.net/",
-    "language": [
-      "hu"
-    ],
-    "software": [
-      "foolfuuka"
-    ]
-  },
-  {
-    "name": "Majeur / World Première",
-    "url": "https://majeur.zawarudo.org/",
-    "boardlistpages": [
-      "https://konomi.tw/menu.html",
-      "https://majeur.zawarudo.org/search.php",
-      "https://komica2.net/mainmenu2018.html"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan",
-      "bazukachan"
-    ]
-  },
-  {
+    "language": ["hu"],
+    "software": ["foolfuuka"]
+}, null, {
     "name": "Male General",
     "url": "https://www.malegeneral.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "wakaba++"
-    ]
-  },
-  {
-    "name": "Maloloschan",
-    "url": "https://www.maloloschan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba", "wakaba++"]
+}, null, {
     "name": "Math PBBS",
     "url": "https://holy-fairytale.ssl-lolipop.jp/cgi-bin/m-pbbs/m-pbbs.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
-    "name": "MChan",
-    "url": "http://mchan.eu5.org/",
-    "language": [
-      "fr",
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Mechachan",
-    "url": "http://mechachan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "rb-79"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["bbsnote"]
+}, null, null, {
     "name": "mediasp.kir.jp",
     "url": "http://mediasp.kir.jp/bbsnote/bbsnote.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "bbsnote"
-    ]
-  },
-  {
-    "name": "Megamindchan",
-    "url": "https://megamindchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "MegidoChan",
-    "url": "http://megidochan.moe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["bbsnote"]
+}, null, null, {
     "name": "Meiwa Suisan",
     "url": "http://www.meiwasuisan.com/frame/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, {
     "name": "Merorin",
     "url": "https://merorin.com/jp/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Metator",
-    "url": "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/",
-    "redirects": [
-      "http://metatorjq65tshfy.onion/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "instant-0chan"
-    ],
-    "boardlists": [
-      "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/boards10.json",
-      "http://metatorrkdagnx2njwvnzqeclsk3qbwabr6hori4vmivj25qy6s6gsad.onion/boards20.json"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "mewkle.icu",
     "url": "https://mewkle.icu/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "foolfuuka"
-    ]
-  },
-  {
-    "name": "Minichan",
-    "url": "https://minichan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "atbbs",
-      "tinybbs"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["foolfuuka"]
+}, null, {
     "name": "Mintboard",
     "url": "https://mintboard.org/vichan/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "mirohlichan.net",
     "url": "https://mirohlichan.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
-    "name": "Miskatonic Channel",
-    "url": "http://chan.miskatonic.ga/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara", "yakuba"]
+}, null, {
     "name": "mlabs-cz.com",
     "url": "https://mlabs-cz.com/",
-    "mirrors": [
-      "https://mlabs-cz.com/",
-      "https://mlabs.g6.cz/"
-    ],
-    "language": [
-      "cs"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://mlabs-cz.com/", "https://mlabs.g6.cz/"],
+    "language": ["cs"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "MLPG.co",
     "url": "https://mlpg.co/",
-    "mirrors": [
-      "https://mlpg.co/",
-      "https://horsefucking.co/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
-  },
-  {
+    "mirrors": ["https://mlpg.co/", "https://horsefucking.co/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "npfchan"]
+}, {
     "name": "mlpol",
     "url": "https://mlpol.net/",
-    "mirrors": [
-      "https://mlpol.net/",
-      "https://mlpol.cc/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "aspnetchan"
-    ]
-  },
-  {
+    "mirrors": ["https://mlpol.net/", "https://mlpol.cc/"],
+    "language": ["en"],
+    "software": ["aspnetchan"]
+}, {
     "name": "MOBI-BOARD",
     "url": "http://kbbs.jp/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
-    "name": "moecorner.com/iboards/",
-    "url": "http://moecorner.com/iboards/Relationship/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, null, {
     "name": "Monstrochan",
     "url": "http://monstrochan.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Monstrochan /l/",
-    "url": "http://monstrochan.org/l/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Mootxico",
     "url": "https://mootxi.co/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"]
+}, {
     "name": "more-xxx.net",
     "url": "http://more-xxx.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "Motherless",
     "url": "https://motherless.com/boards/",
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "Musikchan",
-    "url": "https://musikchan.com/music/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "nagadashi chan",
-    "url": "http://[201:880b:d0b9:a0a5:aac6:907b:7072:825a]/all/",
-    "mirrors": [
-      "http://[201:880b:d0b9:a0a5:aac6:907b:7072:825a]/",
-      "http://g7c54d4b7yva4ktpbaabqeu2yx6axalh4gevb44afpbwm23xuuya.b32.i2p/",
-      "http://overchan.oniichan.i2p/",
-      "http://sexualjthwu5pbofyjtw2fo4ktz6ob5qq5crnqqbqlqrkc6osreouqid.onion/",
-      "http://2222omrocmjwvj2lauuqwgonggvjxunhhv7vr25ens4vddl4linwsiqd.onion/"
-    ],
-    "redirects": [
-      "http://whiner5dxg5qcwdlluptmufvj74xafsvishfaoglnmtubvdds4wgsvqd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
+    "language": ["en"]
+}, null, null, {
     "name": "NagatoYuki/Éclair",
     "url": "https://eclair.nagatoyuki.org/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "nanochan",
-    "url": "http://nanochanqzaytwlydykbg5nxkgyjxk3zsrctxuoxdmbx5jbh2ydyprid.onion/",
-    "redirects": [
-      "http://nanochanpwz3xnue76gteysv6wjm5sim3bbcm2lc65x625at774k77qd.onion/",
-      "http://nanochanqwrwtmamtnhkfwbbcducc4i62ciss4byo6f3an5qdkhjngid.onion/",
-      "http://nanochancsvnej4vxiidu4fhpchkxffl3mgqypub63xadeetkjttavqd.onion/",
-      "http://nanochanxv2lxnqi.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan"
-    ]
-  },
-  {
-    "name": "Neboard X",
-    "url": "https://neboard.me/",
-    "mirrors": [
-      "https://neboard.me/",
-      "http://ci5jbcfmqknlwoyjfcpafgr2266bo3kbzb2z3i43klpadcxcsg6vzmqd.onion/"
-    ],
-    "language": [
-      "uk",
-      "ru"
-    ],
-    "software": [
-      "neboard5"
-    ]
-  },
-  {
-    "name": "NeetChat",
-    "url": "https://neetchat.ga/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["tinyboard", "vichan"]
+}, null, null, null, {
     "name": "neet.moe",
     "url": "https://neet.moe/",
-    "language": [
-      "en"
-    ]
-  },
-  {
-    "name": "NeinChan",
-    "url": "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/",
-    "mirrors": [
-      "http://tdsrvhos656xypxsqtkqmiwefuvlyqmnvk5faoo23oh2m4xqg4gr47ad.onion/",
-      "http://vvadkyuldkwon6za.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
-    "boardlist": "http://vvadkyuldkwon6za.onion/index.json"
-  },
-  {
-    "name": "nekochan",
-    "url": "https://www.nekochan.cafe/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
+    "language": ["en"]
+}, null, null, {
     "name": "Neochan",
     "url": "https://neochan.net/",
-    "mirrors": [
-      "https://neochan.net/",
-      "https://neochan.ru/",
-      "http://neochansu4cegu4o.onion/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity",
-      "neoboard"
-    ]
-  },
-  {
-    "name": "Neuchan",
-    "url": "http://dibzdpeu52cpmeuvdynm5mf6nawoslxozxmhx3fjozjz44cksodhkaqd.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "ni-chan",
-    "url": "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
-    "mirrors": [
-      "http://plnemlsyla6h5t3nuoz2algzmy635ceuendnjwsmhwn2os5fxahshiad.onion/",
-      "http://nichank62kpkrxvg.onion/",
-      "http://bp4hjx3cwbu7i6yb.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
-    "name": "nijibox.com/futaba/",
-    "url": "http://www.nijibox.com/futaba/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
-    "name": "Nijigen",
-    "url": "http://nijigen-futaba.kazumi386.org/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara"
-    ]
-  },
-  {
+    "mirrors": ["https://neochan.net/", "https://neochan.ru/", "http://neochansu4cegu4o.onion/"],
+    "language": ["ru"],
+    "software": ["tinyboard", "vichan", "infinity", "neoboard"]
+}, null, null, null, null, {
     "name": "NiuChan",
     "url": "https://niuchan.org/",
-    "language": [
-      "it"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "nntpchan nekochan",
-    "url": "http://dszr2z2swmeczeao2bqgop6fyh34jw5baeiybsavwtihllwa5qwq.b32.i2p/",
-    "mirrors": [
-      "http://dszr2z2swmeczeao2bqgop6fyh34jw5baeiybsavwtihllwa5qwq.b32.i2p/",
-      "http://[201:4806:21d5:c971:407f:4ea9:4d7d:e491]:5180/",
-      "http://cathugger.ano:5180/",
-      "http://z7neko7rjbzqkkktrqvxn5h26ao32kcftijdbitdfzknfgolngabguyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nekosrv"
-    ]
-  },
-  {
+    "language": ["it"],
+    "software": ["kusaba", "kusabax"]
+}, null, {
     "name": "Northpole",
     "url": "https://northpole.fi/",
-    "language": [
-      "en",
-      "fi"
-    ],
-    "software": [
-      "yboard"
-    ]
-  },
-  {
-    "name": "not99chan",
-    "url": "https://not99chan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en", "fi"],
+    "software": ["yboard"]
+}, null, {
     "name": "Nowere",
     "url": "https://nowere.net/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["wakaba"]
+}, {
     "name": "Nyymichan",
     "url": "https://nyymichan.fi/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Obiadekchan",
-    "url": "https://radekxrandom.pythonanywhere.com/obiadekchan/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "obiadekchan"
-    ]
-  },
-  {
-    "name": "ochan.ru",
-    "url": "https://ochan.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "0chan"
-    ],
-    "boardlist": "https://ochan.ru/api/board/list"
-  },
-  {
+    "language": ["fi"],
+    "software": ["tinyboard", "vichan"]
+}, null, null, {
     "name": "Ochiba Sandbox",
     "url": "http://ochiba.x-maru.org/imgboard/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "ochiba"
-    ]
-  },
-  {
-    "name": "Onee Chan",
-    "url": "https://onee.ch/",
-    "mirrors": [
-      "https://onee.ch/",
-      "http://oneechnq2pn57jfud3wkwtfkthtwrqnqqv7hlyzoy46jgukcd67hylyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "OmegaChen",
-    "url": "https://omegachen.top/all/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "meguca"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["ochiba"]
+}, null, null, {
     "name": "OPERATORchan",
     "url": "http://operatorchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Ota-ch",
-    "url": "https://ota-ch.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, null, {
     "name": "otona-t.net",
     "url": "https://otona-t.net/top.html",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba"]
+}, {
     "name": "Otterchan",
     "url": "https://otterchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba"]
+}, {
     "name": "OwlChan",
     "url": "http://owlchan.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "PaintBBS/しぃペインター",
     "url": "https://pbbs.sakura.ne.jp/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "poti-board"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "poti-board"]
+}, {
     "name": "Path B",
     "url": "https://pathb.net/",
-    "mirrors": [
-      "https://pathb.net/",
-      "http://d4lkrpbhnnhxocgshder2binhu5i3ifv6yskbkqnoa3bve7st2wvh3yd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://pathb.net/", "http://d4lkrpbhnnhxocgshder2binhu5i3ifv6yskbkqnoa3bve7st2wvh3yd.onion/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "paywall.party",
     "url": "https://paywall.party/b/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Perfectchan",
     "url": "https://perfectchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Picochan",
-    "url": "http://picochanwvqfa2xsrfzlul4x4aqtog2eljll5qnj5iagpbhx2vmfqnid.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "nanochan",
-      "picochan"
-    ]
-  },
-  {
-    "name": "Pildilaud",
-    "url": "https://pildilaud.ee/",
-    "language": [
-      "et"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, null, {
     "name": "画像掲示板PINKのとら",
     "url": "http://www.pinknotora.net/main.html",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["ja"]
+}, {
     "name": "plus4chan",
     "url": "https://boards.plus4chan.org/",
-    "redirects": [
-      "http://boards.plus4chan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "koba"
-    ]
-  },
-  {
+    "redirects": ["http://boards.plus4chan.net/"],
+    "language": ["en"],
+    "software": ["koba"]
+}, {
     "name": "plus-love",
     "url": "https://plus-love.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren",
-      "siokara",
-      "moeren+siokara"
-    ]
-  },
-  {
-    "name": "Pohjoislauta",
-    "url": "https://pohjoislauta.fi/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "hankiboard"
-    ]
-  },
-  {
-    "name": "PoizeChan",
-    "url": "http://xulvpc743m5iu6oktjyhyigd3ijxhcexz7b6nnoiy5wszzojbf7s73yd.onion/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "moeren", "siokara", "moeren+siokara"]
+}, null, null, {
     "name": "PokemonBBS",
     "url": "https://pokemonbbs.com/poke/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "webpatio",
-      "webpatio-kirishima"
-    ]
-  },
-  {
-    "name": "Polski vichan",
-    "url": "https://pl.vichan.net/*/index.html",
-    "mirrors": [
-      "https://pl.vichan.net/",
-      "http://vichan6jaktoao2o.onion/"
-    ],
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["webpatio", "webpatio-kirishima"]
+}, null, {
     "name": "Ponkolauta",
     "url": "https://ponkolauta.net/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Ponyach",
-    "url": "https://ponyach.ru/b/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "ponyach.ru"
-    ]
-  },
-  {
+    "language": ["fi"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Ponychan",
     "url": "https://www.ponychan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "ponychan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "ponychan"]
+}, {
     "name": "Ponyville",
     "url": "https://ponyville.us/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "PookaChan",
     "url": "https://altfur.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Poorchan",
-    "url": "https://poorch.ga/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tornadoimageboard"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, null, {
     "name": "Post Office",
     "url": "https://afternoon.dynu.com/photo.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "emanon"
-    ]
-  },
-  {
-    "name": "Pregchan",
-    "url": "https://pregchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["emanon"]
+}, null, {
     "name": "prolikewoah.com",
     "url": "https://prolikewoah.com/boards.js",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ],
+    "language": ["en"],
+    "software": ["lynxchan"],
     "boardlist": "https://prolikewoah.com/webring.json"
-  },
-  {
-    "name": "PSWA会議室",
-    "url": "http://pswa.moo.jp/kaigi/joyful.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote",
-      "joyfulnote-isso"
-    ]
-  },
-  {
-    "name": "PTChan",
-    "url": "https://ptchan.org/index.html",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
-    "name": "pyib.appspot.com",
-    "url": "http://pyib.appspot.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kumo"
-    ]
-  },
-  {
+}, null, null, null, {
     "name": "qchan",
     "url": "http://qchan.dyndns.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "questden.org",
     "url": "https://questden.org/kusaba/",
-    "redirects": [
-      "https://tgchan.org/kusaba/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Rainchan",
-    "url": "https://boards.concealed.world/",
-    "mirrors": [
-      "https://boards.concealed.world/",
-      "http://fvmquvda235lwlvdec5nhdwtajlwitfwutsnhsxwcc5wzwzrgcsrc3qd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "redirects": ["https://tgchan.org/kusaba/"],
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, null, {
     "name": "Rfch",
     "url": "https://rfch.rocks/",
-    "mirrors": [
-      "https://rfch.rocks/",
-      "https://rfch.xyz/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://rfch.rocks/", "https://rfch.xyz/"],
+    "language": ["ru"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Rupattelu",
     "url": "https://rupattelu.us/rr/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["fi"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Salmãochan",
     "url": "https://salmaochan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "scv",
-    "url": "http://onesixtwo.club/scv/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "seacats",
-    "url": "http://www.seacats.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Sea's Picture Forum",
-    "url": "https://seasaito.net/sea_cgi2/joyful8y3t4g7n.cgi",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "joyfulnote"
-    ]
-  },
-  {
+    "language": ["pt"],
+    "software": ["kusaba", "kusabax"]
+}, null, null, null, {
     "name": "Secret Area of VIP Quality",
     "url": "https://secretareaofvipquality.org/saovq/images/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "emanon"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["emanon"]
+}, {
     "name": "Secret VIP Quality Website",
     "url": "https://secretvipquality.website/img/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, {
     "name": "seiup",
     "url": "http://seiup.net/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "moeren",
-      "siokara",
-      "moeren+siokara"
-    ]
-  },
-  {
-    "name": "Selene / Collision Mondiale",
-    "url": "https://selene.zawarudo.org/",
-    "boardlistpages": [
-      "https://konomi.tw/menu.html"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "senhi.me",
-    "url": "http://senhi.me/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "Shadowchannel",
-    "url": "http://www.kage.gq/b/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "moeren", "siokara", "moeren+siokara"]
+}, null, null, null, {
     "name": "shamiko.org",
     "url": "https://shamiko.org/all/",
-    "mirrors": [
-      "https://shamiko.org/",
-      "https://megu.ca/",
-      "https://sachik.ooo/",
-      "https://sxrop.casa/",
-      "https://cute.reisen/",
-      "https://nopan.club/",
-      "https://monm.ooo/",
-      "https://jinboch.ooo/",
-      "https://desun.ooo/",
-      "https://gosenz.ooo/",
-      "https://sexdok.ooo/",
-      "https://suwak.ooo/",
-      "https://dind.in/",
-      "https://hidamari.moe/",
-      "https://mcdoogle.cafe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio",
-      "meguca"
-    ]
-  },
-  {
-    "name": "sick.bike BBS",
-    "url": "gopher://bbs.sick.bike/1/70chan",
-    "mirrors": [
-      "gopher://bbs.sick.bike/",
-      "https://bbs.sick.bike/?"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "gopherchan",
-      "70chan"
-    ]
-  },
-  {
-    "name": "Sigchan",
-    "url": "https://sigchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "sirkku.pw/lauta/b/",
-    "url": "https://sirkku.pw/lauta/b/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Site de Marde",
-    "url": "https://4chan.ca/sdm/",
-    "redirects": [
-      "https://sitedemarde.org/"
-    ],
-    "language": [
-      "fr"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "smolbox",
-    "url": "https://smolbox.pw/",
-    "mirrors": [
-      "https://smolbox.pw/",
-      "http://smol4s3fjvi5zhxjbbgq3en6ng3sxdncy3zclhfk6cywyjoi2hru2tid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
+    "mirrors": ["https://shamiko.org/", "https://megu.ca/", "https://sachik.ooo/", "https://sxrop.casa/", "https://cute.reisen/", "https://nopan.club/", "https://monm.ooo/", "https://jinboch.ooo/", "https://desun.ooo/", "https://gosenz.ooo/", "https://sexdok.ooo/", "https://suwak.ooo/", "https://dind.in/", "https://hidamari.moe/", "https://mcdoogle.cafe/"],
+    "language": ["en"],
+    "software": ["doushio", "meguca"]
+}, null, null, null, null, null, {
     "name": "smuglo.li",
     "url": "https://smuglo.li/a/",
-    "mirrors": [
-      "https://smuglo.li/",
-      "http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/",
-      "https://notso.smuglo.li/",
-      "https://smugloli.net/"
-    ],
-    "fallbacks": [
-      "https://smug.nepu.moe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "infinity"
-    ],
+    "mirrors": ["https://smuglo.li/", "http://bhm5koavobq353j54qichcvzr6uhtri6x4bjjy4xkybgvxkzuslzcqid.onion/", "https://notso.smuglo.li/", "https://smugloli.net/"],
+    "fallbacks": ["https://smug.nepu.moe/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "infinity"],
     "boardlist": "https://smuglo.li/webring.json"
-  },
-  {
-    "name": "snow-sugar.net",
-    "url": "https://tsukisiro.snow-sugar.net/iyasi/",
-    "boardlistpages": [
-      "http://web.komica.org/bbsmenu.html",
-      "https://2cat.komica.org/",
-      "https://imgboard.snow-sugar.net/"
-    ],
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba"
-    ]
-  },
-  {
+}, null, {
     "name": "Son Gönderiler",
     "url": "https://tahta.ch/",
-    "mirrors": [
-      "https://tahta.ch/",
-      "https://tahta.se/"
-    ],
-    "language": [
-      "tr"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://tahta.ch/", "https://tahta.se/"],
+    "language": ["tr"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "soyjak.party",
     "url": "https://soyjak.party/",
-    "redirects": [
-      "https://basedjak.party/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "redirects": ["https://basedjak.party/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Sportschan",
     "url": "https://sportschan.org/",
-    "mirrors": [
-      "https://sportschan.org/",
-      "http://ylcjjrqko7pgobnvzreemm565ea3oj3c7rfqqb4x4twmay6hafv54mid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ],
+    "mirrors": ["https://sportschan.org/", "http://ylcjjrqko7pgobnvzreemm565ea3oj3c7rfqqb4x4twmay6hafv54mid.onion/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"],
     "boardlist": "https://sportschan.org/webring.json"
-  },
-  {
+}, {
     "name": "Sărăcean",
     "url": "https://saracean.com/b/",
-    "language": [
-      "ro"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "strange-komica.com/MonsterHunter/",
-    "url": "https://strange-komica.com/MonsterHunter/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["ro"],
+    "software": ["tinyib"]
+}, null, {
     "name": "Subchan",
     "url": "https://subchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "npfchan"]
+}, {
     "name": "SUCHAN",
     "url": "https://sue.usermd.net/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
-    "name": "sumire1100",
-    "url": "http://www26.tok2.com/home/sumire1100/",
-    "language": [
-      "ja"
-    ]
-  },
-  {
+    "language": ["pl"],
+    "software": ["tinyboard"]
+}, null, {
     "name": "Sushichan",
     "url": "https://sushigirl.us/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Sylcha",
-    "url": "https://sylcha.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "Syn-ch",
     "url": "https://syn-ch.org/",
-    "mirrors": [
-      "https://syn-ch.org/",
-      "https://syn-ch.com/",
-      "https://syn-ch.ru/",
-      "https://syn-ch.com.ua/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "fukuro"
-    ]
-  },
-  {
+    "mirrors": ["https://syn-ch.org/", "https://syn-ch.com/", "https://syn-ch.ru/", "https://syn-ch.com.ua/"],
+    "language": ["ru"],
+    "software": ["tinyboard", "vichan", "fukuro"]
+}, {
     "name": "tanoshiine.info",
     "url": "https://tanoshiine.info/radio/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["doushio"]
+}, {
     "name": "TBP Chan",
     "url": "https://tbpchan.cz/",
-    "mirrors": [
-      "https://tbpchan.cz/",
-      "https://tbpchan.net/",
-      "https://24r6p7yo6v2duju3.onion/",
-      "https://tbpchan.libre/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "mirrors": ["https://tbpchan.cz/", "https://tbpchan.net/", "https://24r6p7yo6v2duju3.onion/", "https://tbpchan.libre/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Tea",
     "url": "https://chakai.org/tea/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "doushio"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["doushio"]
+}, {
     "name": "TF2chan",
     "url": "http://tf2chan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "TGFB",
     "url": "http://tgfb.us/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "TheDailyAutist",
-    "url": "http://thedailyautist.com/board/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, {
     "name": "TinyChan",
     "url": "https://tinychan.net/",
-    "redirects": [
-      "https://tinychan.org/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "atbbs",
-      "tinybbs"
-    ]
-  },
-  {
+    "redirects": ["https://tinychan.org/"],
+    "language": ["en"],
+    "software": ["atbbs", "tinybbs"]
+}, {
     "name": "Tohno-chan",
     "url": "http://tohno-chan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "TokyoChronos",
     "url": "https://tokyochronos.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "foolfuuka"
-    ]
-  },
-  {
-    "name": "Torodvach",
-    "url": "http://exzho67ozpdadzcif6vna5y2i2jbcl32rerdrdyuu3b7lcfajqme55id.onion/",
-    "mirrors": [
-      "http://exzho67ozpdadzcif6vna5y2i2jbcl32rerdrdyuu3b7lcfajqme55id.onion/",
-      "http://76dqlkbo4ffj475k.onion/",
-      "http://suzp44odgixf5lthy5ngy6ktabus5gz47squie2shudi6kmlwuaq.b32.i2p/",
-      "http://2ch.i2p/",
-      "http://homosexualchan.i2p/"
-    ],
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["foolfuuka"]
+}, null, {
     "name": "Touhou.fi",
     "url": "http://touhou.fi/board/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["fi"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "Touhou Project Imageboard",
     "url": "https://www.touhou-project.com/",
-    "mirrors": [
-      "https://www.touhou-project.com/",
-      "https://www.thp.moe/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
-    "name": "Traffic Lag",
-    "url": "https://trafficlag.gr/home.php",
-    "language": [
-      "el"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "mirrors": ["https://www.touhou-project.com/", "https://www.thp.moe/"],
+    "language": ["en"],
+    "software": ["kusaba", "kusabax"]
+}, null, {
     "name": "Tranchan",
     "url": "https://www.tranchan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba",
-      "wakaba++"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba", "wakaba++"]
+}, {
     "name": "trashchan",
     "url": "https://trashchan.xyz/index.html",
-    "mirrors": [
-      "https://trashchan.xyz/",
-      "http://trashchan2rvdng5zm7346sfxrrkjwvqzolw4lfdyldcsdpmsyj4dkid.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
+    "mirrors": ["https://trashchan.xyz/", "http://trashchan2rvdng5zm7346sfxrrkjwvqzolw4lfdyldcsdpmsyj4dkid.onion/"],
+    "language": ["en"],
+    "software": ["jschan"],
     "boardlist": "https://trashchan.xyz/webring.json"
-  },
-  {
+}, {
     "name": "travel.voidfactory.com",
     "url": "https://travel.voidfactory.com/",
-    "language": [
-      "zh"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "pixmicat"
-    ]
-  },
-  {
+    "language": ["zh"],
+    "software": ["gazoubbs", "futaba", "pixmicat"]
+}, {
     "name": "tuzach.in",
     "url": "https://tuzach.in/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "ace-rx"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["ace-rx"]
+}, {
     "name": "tvch",
     "url": "https://tvch.moe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "npfchan"],
     "boardlist": "https://tvch.moe/webring.json"
-  },
-  {
+}, {
     "name": "twchan",
     "url": "https://boards.twchan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "U18chan",
     "url": "https://u18chan.com/",
-    "mirrors": [
-      "https://u18chan.com/",
-      "http://furrypornkae534k.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "ib4f"
-    ]
-  },
-  {
+    "mirrors": ["https://u18chan.com/", "http://furrypornkae534k.onion/"],
+    "language": ["en"],
+    "software": ["ib4f"]
+}, {
     "name": "Uboachan",
     "url": "https://uboachan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "UGO 0.2",
-    "url": "http://ffzzgg.net/UGO/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "kareha"
-    ]
-  },
-  {
-    "name": "UN FUF A DOO",
-    "url": "https://unfufadoo.net/index.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, null, {
     "name": "up.subuya.com",
     "url": "http://up.subuya.com/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "yakuba"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara", "yakuba"]
+}, {
     "name": "Vecchiochan",
     "url": "https://vecchiochan.com/",
-    "language": [
-      "it"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "VHSCHAN",
-    "url": "https://vhschan.org/",
-    "language": [
-      "pt"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan",
-      "bazukachan"
-    ]
-  },
-  {
-    "name": "vikin.ga",
-    "url": "https://vikin.ga/",
-    "language": [
-      "es"
-    ]
-  },
-  {
+    "language": ["it"],
+    "software": ["tinyboard", "vichan"]
+}, null, null, {
     "name": "Volgach",
     "url": "https://volgach.ru/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "Voyeurchan",
     "url": "http://voyeurchan.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Waifuist.pro",
     "url": "https://waifuist.pro/",
-    "mirrors": [
-      "https://waifuist.pro/",
-      "http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxchan"
-    ]
-  },
-  {
-    "name": "Walpurgischan",
-    "url": "https://walpurgischan.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "whisper.onthewifi.com",
-    "url": "ssh://bit:byte@whisper.onthewifi.com",
-    "mirrors": [
-      "ssh://bit:byte@whisper.onthewifi.com",
-      "ssh://bit:byte@2okzlsboulbv6y22foslk7cvgi3nqzj2a7tsofhkzvh6jytjcoxlqlad.onion"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "cursedboard"
-    ]
-  },
-  {
+    "mirrors": ["https://waifuist.pro/", "http://waifuwyuu7fqlf2haidb3izomxyhxme2mk4kdlibdiwgmzelt2iorxyd.onion/"],
+    "language": ["en"],
+    "software": ["lynxchan"]
+}, null, null, {
     "name": "Wikieat 2.0",
     "url": "https://wikieat.club/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
-    "name": "Wilchan",
-    "url": "https://wilchan.org/dev/",
-    "language": [
-      "pl"
-    ]
-  },
-  {
-    "name": "Wilchan (shadow)",
-    "url": "https://shadow.wilchan.org/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, null, null, {
     "name": "wirechan",
     "url": "https://wirechan.org/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "WIRED-7",
     "url": "https://wired-7.org/",
-    "language": [
-      "es"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "lainchan"
-    ]
-  },
-  {
+    "language": ["es"],
+    "software": ["tinyboard", "vichan", "lainchan"]
+}, {
     "name": "Wizardchan",
     "url": "https://wizchan.org/",
-    "mirrors": [
-      "https://wizchan.org/",
-      "https://wizardchan.net/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan",
-      "npfchan"
-    ]
-  },
-  {
+    "mirrors": ["https://wizchan.org/", "https://wizardchan.net/"],
+    "language": ["en"],
+    "software": ["tinyboard", "vichan", "npfchan"]
+}, {
     "name": "Wrongthink",
     "url": "https://wrongthink.net/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "lynxphp"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["lynxphp"]
+}, {
     "name": "Yakui",
     "url": "https://yakui.moe/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba"]
+}, {
     "name": "Ylilauta",
     "url": "https://ylilauta.org/",
-    "language": [
-      "fi"
-    ],
-    "software": [
-      "yboard"
-    ]
-  },
-  {
+    "language": ["fi"],
+    "software": ["yboard"]
+}, {
     "name": "もみぞう /ytb/",
     "url": "http://momi6.momi3.net/ytb/",
-    "language": [
-      "ja"
-    ],
-    "software": [
-      "gazoubbs",
-      "futaba",
-      "siokara",
-      "siokara-gchan"
-    ]
-  },
-  {
+    "language": ["ja"],
+    "software": ["gazoubbs", "futaba", "siokara", "siokara-gchan"]
+}, {
     "name": "Yumechan",
     "url": "https://yumechan.org/",
-    "language": [
-      "en"
-    ]
-  },
-  {
+    "language": ["en"]
+}, {
     "name": "Yuri Project",
     "url": "https://safe.yuri-project.net/wakaba.html",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "wakaba"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["wakaba"]
+}, {
     "name": "Zadraw",
     "url": "http://www.zadraw.ch/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["kusaba", "kusabax"]
+}, {
     "name": "ZChan",
     "url": "https://zchan.org/z/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
-    "name": "Zero BBS",
-    "url": "https://bbs.iriscot.org/",
-    "language": [
-      "ru"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, null, {
     "name": "zerochan",
     "url": "http://nobody.x10host.com/",
-    "language": [
-      "en"
-    ],
-    "software": [
-      "tinyib"
-    ]
-  },
-  {
+    "language": ["en"],
+    "software": ["tinyib"]
+}, {
     "name": "Ziemniaczan",
     "url": "https://ziemniachan.altervista.org/vichan-master/",
-    "language": [
-      "pl"
-    ],
-    "software": [
-      "tinyboard",
-      "vichan"
-    ]
-  },
-  {
+    "language": ["pl"],
+    "software": ["tinyboard", "vichan"]
+}, {
     "name": "Zloi Odmin",
     "url": "http://www.zloiodm.in/",
-    "language": [
-      "ru"
-    ],
-    "software": [
-      "kusaba",
-      "kusabax",
-      "novovvedeniya"
-    ]
-  },
-  {
+    "language": ["ru"],
+    "software": ["kusaba", "kusabax", "novovvedeniya"]
+}, {
     "name": "zzzchan",
     "url": "https://zzzchan.xyz/index.html",
-    "mirrors": [
-      "https://zzzchan.xyz/",
-      "http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion/"
-    ],
-    "language": [
-      "en"
-    ],
-    "software": [
-      "jschan"
-    ],
+    "mirrors": ["https://zzzchan.xyz/", "http://crghlabr45r5pqkgnbgehywk5nxutdks5iss7tabyux5psikqqjirryd.onion/"],
+    "language": ["en"],
+    "software": ["jschan"],
     "boardlist": "https://zzzchan.xyz/webring.json"
-  }
-]
+}]
